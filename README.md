@@ -1,4 +1,4 @@
-# rust-lumascript-parser
+# rust-lumascript-frontend
 A lexer and parser implementation for my custom scripting language in rust.
 ### features
 - Full recursive descent + Pratt parser.
