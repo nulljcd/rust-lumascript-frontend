@@ -2,7 +2,7 @@
 A lexer and parser implementation for my custom scripting language in rust.
 ### features
 - Full recursive descent + Pratt parser.
-- Syntax is a combination of my favorite languages syntax; its mainly a combination of javascript, go and rust.
+- Syntax is a combination of my favorite languages syntax; its mainly a combination of javascript, go, rust and lua.
 - Has smart and predicable automatic semicolon insertion (asi)
 ### examples
 ```go
