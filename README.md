@@ -1,7 +1,7 @@
 # rust-lumascript-parser
 A lexer and parser implementation for my custom scripting language in rust.
 ### features
-- Recursive descent parser.
+- Full recursive descent + Pratt parser.
 - Syntax is a combination of my favorite languages syntax; its mainly a combination of javascript, go and rust.
 - Has smart and predicable automatic semicolon insertion (asi)
 ### examples
