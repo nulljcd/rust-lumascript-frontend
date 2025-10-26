@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "rust-lumascript-parser"
+name = "rust-lumascript-frontend"
 version = "0.1.0"
