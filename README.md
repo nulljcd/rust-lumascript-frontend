@@ -1,5 +1,5 @@
 # rust-lumascript-frontend
-A lexer and parser implementation for my custom scripting language, lumascript, in rust.
+A parser for my custom scripting language, lumascript, in rust.
 ### features
 - Full recursive descent + Pratt parser.
 - Syntax is a combination of my favorite languages syntax; its mainly a combination of javascript, go, rust and lua.
