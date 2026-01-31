@@ -2,8 +2,8 @@
 A parser for my custom scripting language, lumascript, in rust.
 ### features
 - Full recursive descent + Pratt parser.
-- Syntax is a combination of my favorite languages syntax; its mainly a combination of javascript, go, rust and lua.
-- Has smart and predicable automatic semicolon insertion (asi)
+- Syntax is a combination of my favorite languages syntax; it is mainly a combination of javascript, go, rust and lua.
+- Has smart and predicable automatic semicolon insertion (ASI)
 ### examples
 ```go
 fib := func n {
@@ -16,7 +16,7 @@ fib := func n {
 
 fib(24);
 ```
-or
+Or utilizing ASI
 ```go
 fib := func n {
     if n < 2 {
